@@ -1,6 +1,6 @@
 # api-sniffer
 An api sniffer library made by servant
-
+![image](https://user-images.githubusercontent.com/94388882/223440199-e648a7d9-391c-444e-9350-909b0f138a01.png)
 
 # How to use it?
 
@@ -27,4 +27,3 @@ const sniffer = {
 //run our sniffer
 sniffer.getAPI()
 ```
-![image](https://user-images.githubusercontent.com/94388882/223440090-2baf903e-20c8-457b-aaea-3b424a4bc4c1.png)
