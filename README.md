@@ -27,3 +27,4 @@ const sniffer = {
 //run our sniffer
 sniffer.getAPI()
 ```
+![image](https://user-images.githubusercontent.com/94388882/223440090-2baf903e-20c8-457b-aaea-3b424a4bc4c1.png)
